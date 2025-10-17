@@ -1,0 +1,20 @@
+[
+  {
+    "place_id": "demo-ramen",
+    "item_id": "miso-vegan",
+    "name": "Vegan Miso Ramen",
+    "price": 16.5,
+    "tags": ["vegan", "spicy"],
+    "cuisine": ["japanese"],
+    "availability_hours": "11:00-22:00"
+  },
+  {
+    "place_id": "demo-pizza",
+    "item_id": "gf-margherita",
+    "name": "Gluten-Free Margherita",
+    "price": 14.0,
+    "tags": ["vegetarian", "gluten-free"],
+    "cuisine": ["italian"],
+    "availability_hours": "10:00-23:00"
+  }
+]

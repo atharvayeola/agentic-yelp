@@ -1,0 +1,6 @@
+- name: gluten_free_budget
+  prompt: "Gluten-free pasta under $18 near 94105 within 3 km."
+  must_include:
+    - "gluten-free"
+  budget_max: 18
+  distance_max: 3
